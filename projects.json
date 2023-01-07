@@ -1,0 +1,14 @@
+[
+    {
+      "name": "project1",
+      "live": "https://pocket-sommelier.vercel.app/",
+      "git": "https://github.com/Alex-dev7/Project1-SEI",
+      "image": "https://imgur.com/xpm41fi"
+    },
+    {
+      "name": "project2",
+      "live": "https://missing-pets.onrender.com/posters",
+      "git": "https://github.com/Alex-dev7/Missing_Pet_Project2",
+      "image": "https://imgur.com/HhxeOA1"
+    }
+  ]
